@@ -1,2 +1,2 @@
-# SpecificStoryTropes
-A personal blog defining specific tropes and listing them from my short fiction.
+# UnTropes
+A website for archiving and assigning untropes to unfiction.
